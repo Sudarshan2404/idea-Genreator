@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 1,
+    "title": "AI-Powered Legal Compliance Assistant",
+    "brief": "An AI tool trained on industry-specific regulations to help small legal firms quickly validate compliance documents."
+  },
+  {
+    "id": 2,
+    "title": "Vertical CRM for Angel Investors",
+    "brief": "A lightweight CRM tailored for angel investors and pre-seed VCs to manage deals and track founder updates."
+  },
+  {
+    "id": 3,
+    "title": "Remote Science Lab Simulator",
+    "brief": "A virtual lab platform enabling high school science teachers to conduct interactive experiments remotely."
+  },
+  {
+    "id": 4,
+    "title": "AI-Driven Postgres Database Provisioning",
+    "brief": "A service that automates 80% of Postgres database creation using AI, enhancing developer productivity."
+  },
+  {
+    "id": 5,
+    "title": "AI Video Generation Platform for Marketers",
+    "brief": "A tool that allows marketers to create realistic animated videos by combining images and text-to-speech audio."
+  },
+  {
+    "id": 6,
+    "title": "AI Agent for Product Management Tasks",
+    "brief": "An AI assistant that integrates with Slack and Teams to help product managers synthesize feedback and monitor competitor activity."
+  },
+  {
+    "id": 7,
+    "title": "Clinical Automation Platform",
+    "brief": "A solution that automates clinical workflows, improving efficiency in healthcare settings."
+  },
+  {
+    "id": 8,
+    "title": "AI-Enhanced Property Management Software",
+    "brief": "A platform that leverages AI to streamline property management tasks for real estate professionals."
+  },
+  {
+    "id": 9,
+    "title": "AI-Generated Podcast Content Creator",
+    "brief": "A tool that enables creators to produce podcast episodes using AI-generated voices and scripts."
+  },
+  {
+    "id": 10,
+    "title": "Compute-in-Memory Chips for Generative AI",
+    "brief": "Energy-efficient chips designed to accelerate generative AI applications by integrating memory and processing."
+  },
+  {
+    "id": 11,
+    "title": "AI-First Accelerator Program for Startups",
+    "brief": "An accelerator initiative supporting early-stage startups focused on Agentic and Multimodal AI solutions."
+  },
+  {
+    "id": 12,
+    "title": "AI-Driven Virtual Spokesperson for Brands",
+    "brief": "A service that creates lifelike digital characters to represent brands in marketing campaigns."
+  },
+  {
+    "id": 13,
+    "title": "AI-Powered Investor Relations Assistant",
+    "brief": "A tool that helps startups manage communications and updates with investors using AI-driven insights."
+  },
+  {
+    "id": 14,
+    "title": "AI-Based Remote Patient Monitoring",
+    "brief": "A platform that uses AI to monitor patient health data remotely, enabling proactive healthcare interventions."
+  },
+  {
+    "id": 15,
+    "title": "AI-Enhanced Personalized Learning Platform",
+    "brief": "An edtech solution that adapts learning content to individual student needs using AI algorithms."
+  },
+  {
+    "id": 16,
+    "title": "Decentralized Identity Verification System",
+    "brief": "A Web3-based platform that provides secure and decentralized identity verification for online services."
+  },
+  {
+    "id": 17,
+    "title": "AI-Powered Climate Risk Assessment Tool",
+    "brief": "A tool that uses AI to assess and predict climate-related risks for businesses and communities."
+  },
+  {
+    "id": 18,
+    "title": "AI-Driven Mental Health Support App",
+    "brief": "An application that offers personalized mental health support and resources using AI-driven assessments."
+  },
+  {
+    "id": 19,
+    "title": "AI-Powered Supply Chain Optimization Platform",
+    "brief": "A solution that leverages AI to optimize supply chain operations and reduce inefficiencies."
+  },
+  {
+    "id": 20,
+    "title": "AI-Based Language Translation Service",
+    "brief": "A platform that provides real-time, accurate language translation services using advanced AI models."
+  },
+  {
+    "id": 21,
+    "title": "AI-Enhanced Fraud Detection System",
+    "brief": "A tool that utilizes AI to detect and prevent fraudulent activities in financial transactions."
+  },
+  {
+    "id": 22,
+    "title": "AI-Powered Content Moderation Tool",
+    "brief": "A solution that employs AI to monitor and moderate user-generated content on digital platforms."
+  },
+  {
+    "id": 23,
+    "title": "AI-Driven Personalized Marketing Platform",
+    "brief": "A marketing tool that uses AI to deliver personalized content and recommendations to users."
+  },
+  {
+    "id": 24,
+    "title": "AI-Based Talent Acquisition Platform",
+    "brief": "A recruitment solution that leverages AI to match candidates with suitable job opportunities."
+  },
+  {
+    "id": 25,
+    "title": "AI-Powered Financial Planning Assistant",
+    "brief": "An application that helps users manage their finances and plan budgets using AI-driven insights."
+  },
+  {
+    "id": 26,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for SMBs."
+  },
+  {
+    "id": 27,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for freelancers."
+  },
+  {
+    "id": 28,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for Gen Z."
+  },
+  {
+    "id": 29,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for remote teams."
+  },
+  {
+    "id": 30,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for early-stage startups."
+  },
+  {
+    "id": 31,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for healthcare providers."
+  },
+  {
+    "id": 32,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for educators."
+  },
+  {
+    "id": 33,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for investors."
+  },
+  {
+    "id": 34,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for climate researchers."
+  },
+  {
+    "id": 35,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for solopreneurs."
+  },
+  {
+    "id": 36,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for HR managers."
+  },
+  {
+    "id": 37,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for online marketplaces."
+  },
+  {
+    "id": 38,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for legal firms."
+  },
+  {
+    "id": 39,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for SaaS founders."
+  },
+  {
+    "id": 40,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for NGOs."
+  },
+  {
+    "id": 41,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for financial analysts."
+  },
+  {
+    "id": 42,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for content creators."
+  },
+  {
+    "id": 43,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for supply chain managers."
+  },
+  {
+    "id": 44,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for event organizers."
+  },
+  {
+    "id": 45,
+    "title": "AI Solution for Compliance Automation",
+    "brief": "A ai tool that provides compliance automation tailored for real estate agents."
+  },
+  {
+    "id": 46,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for SMBs."
+  },
+  {
+    "id": 47,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for freelancers."
+  },
+  {
+    "id": 48,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for Gen Z."
+  },
+  {
+    "id": 49,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for remote teams."
+  },
+  {
+    "id": 50,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for early-stage startups."
+  },
+  {
+    "id": 51,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for healthcare providers."
+  },
+  {
+    "id": 52,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for educators."
+  },
+  {
+    "id": 53,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for investors."
+  },
+  {
+    "id": 54,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for climate researchers."
+  },
+  {
+    "id": 55,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for solopreneurs."
+  },
+  {
+    "id": 56,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for HR managers."
+  },
+  {
+    "id": 57,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for online marketplaces."
+  },
+  {
+    "id": 58,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for legal firms."
+  },
+  {
+    "id": 59,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for SaaS founders."
+  },
+  {
+    "id": 60,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for NGOs."
+  },
+  {
+    "id": 61,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for financial analysts."
+  },
+  {
+    "id": 62,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for content creators."
+  },
+  {
+    "id": 63,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for supply chain managers."
+  },
+  {
+    "id": 64,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for event organizers."
+  },
+  {
+    "id": 65,
+    "title": "AI Solution for Personalized Learning",
+    "brief": "A ai tool that provides personalized learning tailored for real estate agents."
+  },
+  {
+    "id": 66,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for SMBs."
+  },
+  {
+    "id": 67,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for freelancers."
+  },
+  {
+    "id": 68,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for Gen Z."
+  },
+  {
+    "id": 69,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for remote teams."
+  },
+  {
+    "id": 70,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for early-stage startups."
+  },
+  {
+    "id": 71,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for healthcare providers."
+  },
+  {
+    "id": 72,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for educators."
+  },
+  {
+    "id": 73,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for investors."
+  },
+  {
+    "id": 74,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for climate researchers."
+  },
+  {
+    "id": 75,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for solopreneurs."
+  },
+  {
+    "id": 76,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for HR managers."
+  },
+  {
+    "id": 77,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for online marketplaces."
+  },
+  {
+    "id": 78,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for legal firms."
+  },
+  {
+    "id": 79,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for SaaS founders."
+  },
+  {
+    "id": 80,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for NGOs."
+  },
+  {
+    "id": 81,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for financial analysts."
+  },
+  {
+    "id": 82,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for content creators."
+  },
+  {
+    "id": 83,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for supply chain managers."
+  },
+  {
+    "id": 84,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for event organizers."
+  },
+  {
+    "id": 85,
+    "title": "AI Solution for Market Insights",
+    "brief": "A ai tool that provides market insights tailored for real estate agents."
+  },
+  {
+    "id": 86,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for SMBs."
+  },
+  {
+    "id": 87,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for freelancers."
+  },
+  {
+    "id": 88,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for Gen Z."
+  },
+  {
+    "id": 89,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for remote teams."
+  },
+  {
+    "id": 90,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for early-stage startups."
+  },
+  {
+    "id": 91,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for healthcare providers."
+  },
+  {
+    "id": 92,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for educators."
+  },
+  {
+    "id": 93,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for investors."
+  },
+  {
+    "id": 94,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for climate researchers."
+  },
+  {
+    "id": 95,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for solopreneurs."
+  },
+  {
+    "id": 96,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for HR managers."
+  },
+  {
+    "id": 97,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for online marketplaces."
+  },
+  {
+    "id": 98,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for legal firms."
+  },
+  {
+    "id": 99,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for SaaS founders."
+  },
+  {
+    "id": 100,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for NGOs."
+  },
+  {
+    "id": 101,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for financial analysts."
+  },
+  {
+    "id": 102,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for content creators."
+  },
+  {
+    "id": 103,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for supply chain managers."
+  },
+  {
+    "id": 104,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for event organizers."
+  },
+  {
+    "id": 105,
+    "title": "AI Solution for Workflow Optimization",
+    "brief": "A ai tool that provides workflow optimization tailored for real estate agents."
+  },
+  {
+    "id": 106,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for SMBs."
+  },
+  {
+    "id": 107,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for freelancers."
+  },
+  {
+    "id": 108,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for Gen Z."
+  },
+  {
+    "id": 109,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for remote teams."
+  },
+  {
+    "id": 110,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for early-stage startups."
+  },
+  {
+    "id": 111,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for healthcare providers."
+  },
+  {
+    "id": 112,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for educators."
+  },
+  {
+    "id": 113,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for investors."
+  },
+  {
+    "id": 114,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for climate researchers."
+  },
+  {
+    "id": 115,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for solopreneurs."
+  },
+  {
+    "id": 116,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for HR managers."
+  },
+  {
+    "id": 117,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for online marketplaces."
+  },
+  {
+    "id": 118,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for legal firms."
+  },
+  {
+    "id": 119,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for SaaS founders."
+  },
+  {
+    "id": 120,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for NGOs."
+  },
+  {
+    "id": 121,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for financial analysts."
+  },
+  {
+    "id": 122,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for content creators."
+  },
+  {
+    "id": 123,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for supply chain managers."
+  },
+  {
+    "id": 124,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for event organizers."
+  },
+  {
+    "id": 125,
+    "title": "AI Solution for Customer Engagement",
+    "brief": "A ai tool that provides customer engagement tailored for real estate agents."
+  },
+  {
+    "id": 126,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for SMBs."
+  },
+  {
+    "id": 127,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for freelancers."
+  },
+  {
+    "id": 128,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for Gen Z."
+  },
+  {
+    "id": 129,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for remote teams."
+  },
+  {
+    "id": 130,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for early-stage startups."
+  },
+  {
+    "id": 131,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for healthcare providers."
+  },
+  {
+    "id": 132,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for educators."
+  },
+  {
+    "id": 133,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for investors."
+  },
+  {
+    "id": 134,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for climate researchers."
+  },
+  {
+    "id": 135,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for solopreneurs."
+  },
+  {
+    "id": 136,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for HR managers."
+  },
+  {
+    "id": 137,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for online marketplaces."
+  },
+  {
+    "id": 138,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for legal firms."
+  },
+  {
+    "id": 139,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for SaaS founders."
+  },
+  {
+    "id": 140,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for NGOs."
+  },
+  {
+    "id": 141,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for financial analysts."
+  },
+  {
+    "id": 142,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for content creators."
+  },
+  {
+    "id": 143,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for supply chain managers."
+  },
+  {
+    "id": 144,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for event organizers."
+  },
+  {
+    "id": 145,
+    "title": "AI Solution for Fraud Detection",
+    "brief": "A ai tool that provides fraud detection tailored for real estate agents."
+  },
+  {
+    "id": 146,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for SMBs."
+  },
+  {
+    "id": 147,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for freelancers."
+  },
+  {
+    "id": 148,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for Gen Z."
+  },
+  {
+    "id": 149,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for remote teams."
+  },
+  {
+    "id": 150,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for early-stage startups."
+  },
+  {
+    "id": 151,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for healthcare providers."
+  },
+  {
+    "id": 152,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for educators."
+  },
+  {
+    "id": 153,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for investors."
+  },
+  {
+    "id": 154,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for climate researchers."
+  },
+  {
+    "id": 155,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for solopreneurs."
+  },
+  {
+    "id": 156,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for HR managers."
+  },
+  {
+    "id": 157,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for online marketplaces."
+  },
+  {
+    "id": 158,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for legal firms."
+  },
+  {
+    "id": 159,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for SaaS founders."
+  },
+  {
+    "id": 160,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for NGOs."
+  },
+  {
+    "id": 161,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for financial analysts."
+  },
+  {
+    "id": 162,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for content creators."
+  },
+  {
+    "id": 163,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for supply chain managers."
+  },
+  {
+    "id": 164,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for event organizers."
+  },
+  {
+    "id": 165,
+    "title": "AI Solution for Identity Verification",
+    "brief": "A ai tool that provides identity verification tailored for real estate agents."
+  },
+  {
+    "id": 166,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for SMBs."
+  },
+  {
+    "id": 167,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for freelancers."
+  },
+  {
+    "id": 168,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for Gen Z."
+  },
+  {
+    "id": 169,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for remote teams."
+  },
+  {
+    "id": 170,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for early-stage startups."
+  },
+  {
+    "id": 171,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for healthcare providers."
+  },
+  {
+    "id": 172,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for educators."
+  },
+  {
+    "id": 173,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for investors."
+  },
+  {
+    "id": 174,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for climate researchers."
+  },
+  {
+    "id": 175,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for solopreneurs."
+  },
+  {
+    "id": 176,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for HR managers."
+  },
+  {
+    "id": 177,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for online marketplaces."
+  },
+  {
+    "id": 178,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for legal firms."
+  },
+  {
+    "id": 179,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for SaaS founders."
+  },
+  {
+    "id": 180,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for NGOs."
+  },
+  {
+    "id": 181,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for financial analysts."
+  },
+  {
+    "id": 182,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for content creators."
+  },
+  {
+    "id": 183,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for supply chain managers."
+  },
+  {
+    "id": 184,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for event organizers."
+  },
+  {
+    "id": 185,
+    "title": "AI Solution for Data Visualization",
+    "brief": "A ai tool that provides data visualization tailored for real estate agents."
+  },
+  {
+    "id": 186,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for SMBs."
+  },
+  {
+    "id": 187,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for freelancers."
+  },
+  {
+    "id": 188,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for Gen Z."
+  },
+  {
+    "id": 189,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for remote teams."
+  },
+  {
+    "id": 190,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for early-stage startups."
+  },
+  {
+    "id": 191,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for healthcare providers."
+  },
+  {
+    "id": 192,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for educators."
+  },
+  {
+    "id": 193,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for investors."
+  },
+  {
+    "id": 194,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for climate researchers."
+  },
+  {
+    "id": 195,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for solopreneurs."
+  },
+  {
+    "id": 196,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for HR managers."
+  },
+  {
+    "id": 197,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for online marketplaces."
+  },
+  {
+    "id": 198,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for legal firms."
+  },
+  {
+    "id": 199,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for SaaS founders."
+  },
+  {
+    "id": 200,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for NGOs."
+  },
+  {
+    "id": 201,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for financial analysts."
+  },
+  {
+    "id": 202,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for content creators."
+  },
+  {
+    "id": 203,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for supply chain managers."
+  },
+  {
+    "id": 204,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for event organizers."
+  },
+  {
+    "id": 205,
+    "title": "AI Solution for Document Processing",
+    "brief": "A ai tool that provides document processing tailored for real estate agents."
+  },
+  {
+    "id": 206,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for SMBs."
+  },
+  {
+    "id": 207,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for freelancers."
+  },
+  {
+    "id": 208,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for Gen Z."
+  },
+  {
+    "id": 209,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for remote teams."
+  },
+  {
+    "id": 210,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for early-stage startups."
+  },
+  {
+    "id": 211,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for healthcare providers."
+  },
+  {
+    "id": 212,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for educators."
+  },
+  {
+    "id": 213,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for investors."
+  },
+  {
+    "id": 214,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for climate researchers."
+  },
+  {
+    "id": 215,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for solopreneurs."
+  },
+  {
+    "id": 216,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for HR managers."
+  },
+  {
+    "id": 217,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for online marketplaces."
+  },
+  {
+    "id": 218,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for legal firms."
+  },
+  {
+    "id": 219,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for SaaS founders."
+  },
+  {
+    "id": 220,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for NGOs."
+  },
+  {
+    "id": 221,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for financial analysts."
+  },
+  {
+    "id": 222,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for content creators."
+  },
+  {
+    "id": 223,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for supply chain managers."
+  },
+  {
+    "id": 224,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for event organizers."
+  },
+  {
+    "id": 225,
+    "title": "AI Solution for Language Translation",
+    "brief": "A ai tool that provides language translation tailored for real estate agents."
+  },
+  {
+    "id": 226,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for SMBs."
+  },
+  {
+    "id": 227,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for freelancers."
+  },
+  {
+    "id": 228,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for Gen Z."
+  },
+  {
+    "id": 229,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for remote teams."
+  },
+  {
+    "id": 230,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for early-stage startups."
+  },
+  {
+    "id": 231,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for healthcare providers."
+  },
+  {
+    "id": 232,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for educators."
+  },
+  {
+    "id": 233,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for investors."
+  },
+  {
+    "id": 234,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for climate researchers."
+  },
+  {
+    "id": 235,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for solopreneurs."
+  },
+  {
+    "id": 236,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for HR managers."
+  },
+  {
+    "id": 237,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for online marketplaces."
+  },
+  {
+    "id": 238,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for legal firms."
+  },
+  {
+    "id": 239,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for SaaS founders."
+  },
+  {
+    "id": 240,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for NGOs."
+  },
+  {
+    "id": 241,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for financial analysts."
+  },
+  {
+    "id": 242,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for content creators."
+  },
+  {
+    "id": 243,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for supply chain managers."
+  },
+  {
+    "id": 244,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for event organizers."
+  },
+  {
+    "id": 245,
+    "title": "AI Solution for Inventory Tracking",
+    "brief": "A ai tool that provides inventory tracking tailored for real estate agents."
+  },
+  {
+    "id": 246,
+    "title": "AI Solution for Content Moderation",
+    "brief": "A ai tool that provides content moderation tailored for SMBs."
+  },
+  {
+    "id": 247,
+    "title": "AI Solution for Content Moderation",
+    "brief": "A ai tool that provides content moderation tailored for freelancers."
+  },
+  {
+    "id": 248,
+    "title": "AI Solution for Content Moderation",
+    "brief": "A ai tool that provides content moderation tailored for Gen Z."
+  },
+  {
+    "id": 249,
+    "title": "AI Solution for Content Moderation",
+    "brief": "A ai tool that provides content moderation tailored for remote teams."
+  },
+  {
+    "id": 250,
+    "title": "AI Solution for Content Moderation",
+    "brief": "A ai tool that provides content moderation tailored for early-stage startups."
+  }
+]
