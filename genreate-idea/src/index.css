@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+body {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  overflow-y: hidden;
+}
+
+.gen-idea {
+  background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+}
